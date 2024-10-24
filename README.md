@@ -1,1 +1,1 @@
-# am-jira
+# am-atlassian
